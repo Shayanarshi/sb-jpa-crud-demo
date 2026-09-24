@@ -32,3 +32,9 @@ src/main/java
     │   └── EmployeeRepository.java
     └── runner
         └── MyAppRunner.java
+
+
+
+## 🎯 Purpose
+
+This project was created to practice **Spring Data JPA, CRUD operations, entity mapping, repository interfaces, and database integration** with Spring Boot.
